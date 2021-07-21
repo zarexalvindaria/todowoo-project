@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a85e7e39-5074-40ca-a34d-f3fdd243f552" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/api/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/api/views.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/commands.sh" beforeDir="false" afterPath="$PROJECT_DIR$/commands.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +82,7 @@
       <workItem from="1626411842563" duration="6123000" />
       <workItem from="1626463040326" duration="4616000" />
       <workItem from="1626576402653" duration="3859000" />
-      <workItem from="1626893091777" duration="10375000" />
+      <workItem from="1626893091777" duration="13965000" />
     </task>
     <task id="LOCAL-00001" summary="started todowoo">
       <created>1626413351711</created>
@@ -150,7 +154,28 @@
       <option name="project" value="LOCAL" />
       <updated>1626906120560</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="added commands to getting todos via token">
+      <created>1626906308820</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1626906308820</updated>
+    </task>
+    <task id="LOCAL-00012" summary="added commands to getting todos via token">
+      <created>1626906322017</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1626906322017</updated>
+    </task>
+    <task id="LOCAL-00013" summary="added commands to getting todos via token">
+      <created>1626906498518</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1626906498518</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -168,6 +193,7 @@
     <MESSAGE value="added sign up functionality via token" />
     <MESSAGE value="added json.txt file for sign up via API (needed for CMD)" />
     <MESSAGE value="enabled viewing todos using token" />
-    <option name="LAST_COMMIT_MESSAGE" value="enabled viewing todos using token" />
+    <MESSAGE value="added commands to getting todos via token" />
+    <option name="LAST_COMMIT_MESSAGE" value="added commands to getting todos via token" />
   </component>
 </project>
