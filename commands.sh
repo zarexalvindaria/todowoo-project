@@ -6,3 +6,4 @@ curl -X "POST" http://127.0.0.1:8000/api/signup -H "Content-Type: application/js
 
 # signing up viw POST using a token using terminal
 $ curl -X "POST" http://localhost:8000/api/signup -H 'Content-Type: application/json' -d '{"username": "blah", "password": "password"}'
+

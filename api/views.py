@@ -8,6 +8,8 @@ from django.http import JsonResponse
 from django.db import IntegrityError
 from django.contrib.auth.models import User
 from rest_framework.authtoken.models import Token
+from rest_framework.authentication import SessionAuthentication, BasicAuthentication
+
 
 @csrf_exempt
 def signup(request):
@@ -17,9 +19,9 @@ def signup(request):
             user = User.objects.create_user(data['username'], password=data['password'])
             user.save()
             token = Token.objects.create(user=user)
-            return JsonResponse({'token':str(token)}, status=201)
+            return JsonResponse({'token': str(token)}, status=201)
         except IntegrityError:
-            return JsonResponse({'error':'That username has already been taken. Please choose a new username'}, status=400)
+            return JsonResponse({'error': 'That username has already been taken. Please choose a new username'}, status=400)
 
 class TodoCompletedList(generics.ListAPIView):
     serializer_class = TodoSerializer
