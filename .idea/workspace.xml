@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a85e7e39-5074-40ca-a34d-f3fdd243f552" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/commands.sh" beforeDir="false" afterPath="$PROJECT_DIR$/commands.sh" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1vNoIxA4FnqF61AGKdaS5TAnEQY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../resty-project" />
+  </component>
+  <component name="RunManager">
+    <configuration name="todowoo-project" type="Python.DjangoServer" factoryName="Django server">
+      <module name="todowoo-project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a85e7e39-5074-40ca-a34d-f3fdd243f552" name="Default Changelist" comment="" />
+      <created>1626411840523</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1626411840523</updated>
+      <workItem from="1626411842563" duration="6123000" />
+      <workItem from="1626463040326" duration="4616000" />
+      <workItem from="1626576402653" duration="3859000" />
+      <workItem from="1626893091777" duration="10375000" />
+    </task>
+    <task id="LOCAL-00001" summary="started todowoo">
+      <created>1626413351711</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1626413351711</updated>
+    </task>
+    <task id="LOCAL-00002" summary="started api creation">
+      <created>1626413960145</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1626413960145</updated>
+    </task>
+    <task id="LOCAL-00003" summary="init the completed todos api">
+      <created>1626417599223</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1626417599223</updated>
+    </task>
+    <task id="LOCAL-00004" summary="added CRUD functionality in the API">
+      <created>1626464064598</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1626464064598</updated>
+    </task>
+    <task id="LOCAL-00005" summary="enabled update through the API via pk">
+      <created>1626466679923</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1626466679923</updated>
+    </task>
+    <task id="LOCAL-00006" summary="added a sample command to pull the apis via curl">
+      <created>1626467089385</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1626467089385</updated>
+    </task>
+    <task id="LOCAL-00007" summary="added sign up functionality via api + token">
+      <created>1626580725772</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1626580725772</updated>
+    </task>
+    <task id="LOCAL-00008" summary="added sign up functionality via token">
+      <created>1626896663872</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1626896663872</updated>
+    </task>
+    <task id="LOCAL-00009" summary="added json.txt file for sign up via API (needed for CMD)">
+      <created>1626896724997</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1626896724997</updated>
+    </task>
+    <task id="LOCAL-00010" summary="enabled viewing todos using token">
+      <created>1626906120560</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1626906120560</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="started todowoo" />
+    <MESSAGE value="started api creation" />
+    <MESSAGE value="init the completed todos api" />
+    <MESSAGE value="added CRUD functionality in the API" />
+    <MESSAGE value="enabled update through the API via pk" />
+    <MESSAGE value="added a sample command to pull the apis via curl" />
+    <MESSAGE value="added sign up functionality via api + token" />
+    <MESSAGE value="added sign up functionality via token" />
+    <MESSAGE value="added json.txt file for sign up via API (needed for CMD)" />
+    <MESSAGE value="enabled viewing todos using token" />
+    <option name="LAST_COMMIT_MESSAGE" value="enabled viewing todos using token" />
+  </component>
+</project>
