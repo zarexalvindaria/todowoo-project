@@ -11,4 +11,4 @@ $ curl -X "POST" http://localhost:8000/api/signup -H 'Content-Type: application/
 $ curl -X "POST" http://127.0.0.1:8000/api/signup -H "Content-Type: application/json" -d '{"username": "badum", "password": "password"}'
 
 # getting todos using token
->curl -X GET http://127.0.0.1:8000/api/todos -H "Authorization: Token $Token_HERE}"
+curl -X GET http://127.0.0.1:8000/api/todos -H "Authorization: Token $Token_HERE}"
